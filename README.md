@@ -69,7 +69,7 @@ Maven configured
 IntelliJ IDEA or another preferred IDE
 
 👨‍💻 Author
-Developed by Kendall Ycaro (caesarSalad-eng), Mateus Soares (mateeussoares), David Jeremias (davidojeremias-oss) as part of the Object-Oriented Programming course.
+Developed by Kendall Ycaro (caesarSalad-eng), Mateus Soares (mateeussoares), David Jeremias (davidojeremias-oss), Lucas Luiz (lucaslssilva) as part of the Object-Oriented Programming course.
 
 ###### Note: Following the project requirements, all domain model classes were placed in the controller package instead of a separate model package.
 
